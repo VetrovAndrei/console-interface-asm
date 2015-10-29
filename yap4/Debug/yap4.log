@@ -1,0 +1,14 @@
+﻿Сборка начата 29.10.2015 20:34:55.
+     1>Проект "C:\Users\Андрей Ветров\Documents\GitHub\yap4\yap4\yap4.vcxproj" в узле 2 (целевые объекты Build).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\Андрей Ветров\AppData\Local\Temp\tmpfefd4fb826884f149640b98bfb68466e.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Андрей Ветров\Documents\GitHub\yap4\Debug\yap4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Андрей Ветров\Documents\GitHub\yap4\Debug\yap4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Андрей Ветров\Documents\GitHub\yap4\Debug\yap4.lib" /MACHINE:X86 Debug\main.obj
+         yap4.vcxproj -> C:\Users\Андрей Ветров\Documents\GitHub\yap4\Debug\yap4.exe
+     1>Построение проекта "C:\Users\Андрей Ветров\Documents\GitHub\yap4\yap4\yap4.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.49
